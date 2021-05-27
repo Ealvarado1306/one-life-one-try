@@ -1,0 +1,14 @@
+***** CREDITS ******
+
+Sprites: https://o-lobster.itch.io/simple-dungeon-crawler-16x16-pixel-pack
+
+Sound Effects: 
+All sound effects ripped from Mother 2 (Earthbound)
+Composers:Keiichi Suzuki & Hirokazu Tanaka 
+http://starmen.net/mother2/soundfx/
+
+Knight Artwork: https://www.seekpng.com/ipng/u2w7e6u2q8u2a9a9_for-warden-rough-sketch-honor-knight-drawing/
+
+Ogre Artwork: https://www.nicepng.com/downpng/u2t4u2w7q8q8q8y3_ogre-by-ladyofhats-line-art/
+
+Magic Sigil: https://toppng.com/show_download/90621/magic-spell-circle/large
